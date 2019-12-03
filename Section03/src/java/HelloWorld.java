@@ -2,29 +2,20 @@ package java;
 
 public class HelloWorld {
 }
-
 /**
- * Java programs (and most of the other languages) have keywords. Each has an
- * specific meaning and sometimes they need to be used in a specific order.
+ * DEFINING THE MAIN METHOD
  *
- * You write java programs by following a specific set of rules, using a combination of these
- * keywords and other things you will see which collectively form a java program.
+ * What is a method?
+ * it's a collection of statements (one or more) that perform a operation
+ * We'll be using a special method call the main method that java looks for when running a program.
  *
- * NOTE: keywords are case sensitive - public and Public and even PUBLIC are different things.
+ * public static void main (String[] args){
  *
- * "public" and "class" are two java keywords. They have an specific meaning that we'll find out
- * more about moving forward.
+ * }
  *
- * the "public" java keyword is an access modifier - that allows us to define the scope or how other
- * parts of your code or even some else's code can access this code.
+ * psvm + tab
  *
- * So far, we'll use the public access modifier to give full access. We'll come back to access modifier later.
- *
- * Defining a "class". The class keyword is used  to define a class with the name of following the keyword.
- * Hello in this case and left and right curly braces to define the class block.
- *
- * to define a class requires an optional access modifier, followed by class, followed by the left and right curly braces.
- * The left and right curly braces are defining the class body - anything in between them is 'part' of this class.
- * We can have data and code as you will see as we progress.
- * So that's our first class defined.
- * */
+ * public: done in last lecture
+ * static:  <we need more information later>
+ * void: it will not return anything
+ */
