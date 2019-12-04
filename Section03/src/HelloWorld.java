@@ -12,5 +12,9 @@ public class HelloWorld {
         System.out.println("mySecondNumber: " + mySecondNumber);
         System.out.println("myThirdNumber: " + myThirdNumber);
         System.out.println("the total = myFirstNumber + mySecondNumber + myThirdNumber : " + myTotal);
+
+        //2ND CHALLANGE FOR LECTURE 023
+        int myLastOne = 1000 - myTotal;
+        System.out.println("my last one is: " + myLastOne);
     }
 }
