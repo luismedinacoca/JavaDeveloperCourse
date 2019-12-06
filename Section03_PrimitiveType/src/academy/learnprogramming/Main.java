@@ -55,5 +55,17 @@ public class Main {
         // short myNewShortValue = (myMinShortValue / 2); ===> it's considered as a integer
         short myNewShortValue = (short)(myMinShortValue / 2);  /** casting process*/
         System.out.println(myNewShortValue);
+
+        //Challenge - Section03_Lecture027
+        /**Your challenge is to create a byte variable and set it to any valid byte number, it doesn't matter.
+         * Create a short variable and set it yo any valid short number.
+         * Create an int variable and set it to any valid int number.
+         * Lastly, create a variable of type long and make it equal to 50000 plus
+         * 10 times the sum of the byte plus the short plus the integer values.*/
+        byte  newByteNumber = -122;
+        short newShortNumber = 30760;
+        int newIntNumber = 45689;
+        long newLongNumSum = 50000L + 10L * (newByteNumber + newShortNumber + newIntNumber);
+        System.out.println("the long number which is sum: " + newLongNumSum);
     }
 }

@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25fc06a9-4892-47ba-8418-9aff17c86396" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/Section03_FloatAndDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Section03_FloatAndDouble/src/academy/learprogramming/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Section03_PrimitiveType/academy/learnprogramming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Section03_PrimitiveType/academy/learnprogramming/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575568591137</updated>
       <workItem from="1575636798135" duration="2576000" />
-      <workItem from="1575641561360" duration="2531000" />
+      <workItem from="1575641561360" duration="4308000" />
     </task>
     <servers />
   </component>
