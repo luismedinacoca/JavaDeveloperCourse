@@ -1,3 +1,3 @@
 # README file
 
-* Adding section 03 - Lecture 023
+* Adding section 03 - Lecture 025
