@@ -45,5 +45,15 @@ public class Main {
         //long bigLongLiteralValue = 2_147_483_647_234; (it considered as a integer... letter L is missing)
         long bigLongLiteralValue = 2_147_483_647_234L;
         System.out.println(bigLongLiteralValue);
+
+        int myTotal = (myMinIntValue / 2);
+
+        // byte myNewByteValue = (myMinByteValue / 2); ===> it's considered as a integer
+        byte myNewByteValue = (byte)(myMinByteValue / 2);  /** casting process*/
+        System.out.println(myNewByteValue);
+
+        // short myNewShortValue = (myMinShortValue / 2); ===> it's considered as a integer
+        short myNewShortValue = (short)(myMinShortValue / 2);  /** casting process*/
+        System.out.println(myNewShortValue);
     }
 }
